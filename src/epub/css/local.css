@@ -1,6 +1,14 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+#chapter-15 blockquote p{
+	font-variant: small-caps;
+}
+
+blockquote header{
+	text-align: center;
+}
+
 /* Verse and Song */
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:song"] p{
