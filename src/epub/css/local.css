@@ -5,6 +5,15 @@
 	font-variant: small-caps;
 }
 
+#chapter-17 blockquote p{
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-17 blockquote p:nth-child(2){
+	padding-left: 5.5em;
+}
+
 blockquote header{
 	text-align: center;
 }
