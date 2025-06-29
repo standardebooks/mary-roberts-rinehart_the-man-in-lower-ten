@@ -20,3 +20,12 @@
 	display: none;
 }
 /* End verse and song */
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
