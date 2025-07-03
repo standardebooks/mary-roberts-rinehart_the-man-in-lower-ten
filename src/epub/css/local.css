@@ -11,7 +11,7 @@
 }
 
 #chapter-17 blockquote p:nth-child(2){
-	padding-left: 5.5em;
+	padding-left: 6em;
 }
 
 blockquote header{
@@ -45,4 +45,16 @@ footer{
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+figure{
+	break-inside: avoid;
+	margin: 1em 2.5em;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-height: 100vh;
+	max-width: 100%;
 }
