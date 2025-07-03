@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mary-roberts-rinehart/the-man-in-lower-ten</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-07-03T19:33:10Z</dc:date>
+		<meta property="dcterms:modified">2025-07-03T19:33:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,16 +44,16 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A young attorney is on his way to deliver evidence for a forgery case when he’s accused of killing a fellow train passenger.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Lawrence Blakeley has travelled to Pittsburgh to collect the deposition of rich industrialist John Gilmore, chief witness for the prosecution in a forgery trial, while his legal partner Richey McKnight visits his fiancée at her home in Richmond. What should have been a standard legal procedure to help secure a conviction in their favor becomes instead the starting point of misfortune for Blakeley and his case.&lt;/p&gt;
-			&lt;p&gt;Being forced to sleep in a vacant bunk after finding a drunken man occupying the one he bought a ticket for, Blakeley wakes up to discover that all his belongings are now missing. The search for the stolen evidence is further complicated when a lifeless body is found, with Blakeley becoming the main suspect as the murder weapon happens to be in his possession.&lt;/p&gt;
-			&lt;p&gt;Blakeley has to work through the entangled web of clues that surround a murder in the middle of the night, a beautiful but mysterious woman with a familiar face, and a seemingly unrelated legal case are connected to his current predicament.&lt;/p&gt;
-			&lt;p&gt;Published in 1909, &lt;i&gt;The Man in Lower Ten&lt;/i&gt; was an early pioneer in American crime novels and an instant bestseller, helping to establish the train as a suitable setting for a murder mystery within literary fiction.&lt;/p&gt;
+			&lt;p&gt;Lawrence Blakeley has traveled to Pittsburgh to collect the deposition of rich industrialist John Gilmore, chief witness for the prosecution in a forgery trial, while his legal partner Richey McKnight visits his fiancee at her home in Richmond. What should have been a standard legal procedure to help secure a conviction in their favor becomes instead the beginning of great misfortune for Blakeley.&lt;/p&gt;
+			&lt;p&gt;After being forced to sleep in a vacant bunk upon finding a drunk occupying his paid-for one, Blakeley wakes up to discover that all his belongings are missing. The search for the stolen evidence is further complicated when a lifeless body is discovered, and Blakeley—the murder weapon mysteriously appearing in his possession—becomes the main suspect.&lt;/p&gt;
+			&lt;p&gt;Blakeley has to work out how a tangled web of clues that surrounds the murder, a beautiful but mysterious woman with a familiar face, and a seemingly unrelated legal case are all interconnected to his predicament.&lt;/p&gt;
+			&lt;p&gt;Published in 1909, &lt;i&gt;The Man in Lower Ten&lt;/i&gt; was an early pioneer in American crime novels and an instant bestseller, helping to establish passenger trains as suitable settings for murder mysteries.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1869</dc:source>
 		<dc:source>https://archive.org/details/maninlowerten00presgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">65652</meta>
+		<meta property="se:reading-ease.flesch">74.79</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-roberts-rinehart_the-man-in-lower-ten</meta>
 		<dc:creator id="author">Mary Roberts Rinehart</dc:creator>
 		<meta property="file-as" refines="#author">Rinehart, Mary Roberts</meta>
@@ -83,6 +83,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
