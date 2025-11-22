@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Man in Lower Ten</dc:title>
 		<meta property="file-as" refines="#title">Man in Lower Ten, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The Man in Lower 10</meta>
+		<meta property="dcterms:alternative" refines="#title">The Man in Lower 10</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">Murder -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Railroad travel -- Fiction</dc:subject>
