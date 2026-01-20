@@ -52,7 +52,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1869</dc:source>
 		<dc:source>https://archive.org/details/maninlowerten00presgoog</dc:source>
-		<meta property="se:word-count">65652</meta>
+		<meta property="se:word-count">64634</meta>
 		<meta property="se:reading-ease.flesch">74.79</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-roberts-rinehart_the-man-in-lower-ten</meta>
 		<dc:creator id="author">Mary Roberts Rinehart</dc:creator>
