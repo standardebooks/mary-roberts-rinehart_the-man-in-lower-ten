@@ -43,7 +43,7 @@
 		<meta property="term" refines="#subject-3">sh2010109417</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>A young attorney is on his way to deliver evidence for a forgery case when he’s accused of killing a fellow train passenger.</dc:abstract>
+		<meta property="schema:abstract">A young attorney is on his way to deliver evidence for a forgery case when he’s accused of killing a fellow train passenger.</meta>
 		<dc:description>
 			&lt;p&gt;Lawrence Blakeley has traveled to Pittsburgh to collect the deposition of rich industrialist John Gilmore, chief witness for the prosecution in a forgery trial, while his legal partner Richey McKnight visits his fiancee at her home in Richmond. What should have been a standard legal procedure to help secure a conviction in their favor becomes instead the beginning of great misfortune for Blakeley.&lt;/p&gt;
 			&lt;p&gt;After being forced to sleep in a vacant bunk upon finding a drunk occupying his paid-for one, Blakeley wakes up to discover that all his belongings are missing. The search for the stolen evidence is further complicated when a lifeless body is discovered, and Blakeley—the murder weapon mysteriously appearing in his possession—becomes the main suspect.&lt;/p&gt;
